@@ -6,7 +6,7 @@ class Car:
          self.make = make
          self.model = model
          self.color = color 
-def print_details(self):
+def stop(self):
         return f"Make{self.make}, Model {self.model}, Color {self.color}"
 
 

@@ -6,7 +6,7 @@ class Fruit:
          self.color = color
          self.taste = taste
 
-     def print_details(self):
+     def ripe(self):
         return f"Name{self.name}, Color{self.color}, Taste {self.taste}"
 
 
